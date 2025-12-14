@@ -612,12 +612,3 @@ impl Interpreter {
         })
     }
 }
-
-/*
-fn main() -> Result<(), String> {
-
-    let mut _interp = Interpreter::run_file("main.scrpt")?;
-
-    Ok(())
-}
-*/
